@@ -15,7 +15,7 @@ out_filename = 'output/working.txt'
 
 For example:
 ```
-python-proxy-checker
+proxy-checker
 |-- proxy.py
 |
 |-- README.md
